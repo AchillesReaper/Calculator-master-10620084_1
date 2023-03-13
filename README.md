@@ -8,7 +8,7 @@
 
 Individual programming project: Command-line calculator
 
-Due 5rd April 2019 at 11:59 pm  
+Due 25 Mar 2022 at 11:59 pm  
 
 This project is worth 25% of the overall mark for this subject.
 
@@ -29,13 +29,11 @@ The reference implementation takes about 200 lines of code. As part of your subj
 
 ## Instructions
 
-1. Create a GitHub account and apply for the Student Developer Pack
-   https://help.github.com/articles/applying-for-a-student-developer-pack/
-   This allows you to create private repositories for free while you are a student.
-2. Fork the project template from [https://github.com/uts-ios-dev/calc](https://github.com/uts-ios-dev/calc) into a private repository.
-3. Implement the specified functionality in the `calc` target.
-4. Use "Product > Test" to test your functionality.
-4. Upload your submission to [UTS Online](https://online.uts.edu.au/). Compress your Xcode project into a zip file and upload the file to "Assessment Task 1 submission." Please delete the "Build", "DerivedData", and "reference" folders for a smaller zip file size. You may submit as many times as you like until the final due date. The final submission you make is the one that will be marked.
+
+1. Fork the project template from Canvas into a private repositor
+2. Implement the specified functionality in the `calc` target.
+3. Use "Product > Test" to test your functionality.
+4. Upload your submission to [Canvas](https://canvas.uts.edu.au/). Compress your Xcode project into a zip file and upload the file to "Assessment 1 submission." You may submit maximum 3 times until the final due date. The final submission you make in the one that will be marked.
 
 ### Specification
 
@@ -203,6 +201,6 @@ If the answer to your questions can be found directly in any of the following:
 
 - subject outline
 - task specification
-- UTS Online discussion board
+- UTS Canvas discussion board
 
 You will be directed to these locations rather than given a direct answer.
